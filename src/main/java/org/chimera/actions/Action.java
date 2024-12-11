@@ -6,6 +6,5 @@ package org.chimera.actions;
  * After which, you should return true to finish the action's execution.
  */
 public interface Action {
-
     boolean execute();
 }
